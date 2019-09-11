@@ -46,7 +46,7 @@ import styles from './styles.sass';
   template: template,
   styles: [styles]
 })
-export class AppComponent {
+export class PageComponent {
   name = 'Try angular';
 }
 ```

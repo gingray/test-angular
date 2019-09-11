@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import template from './app.component.html';
+import template from './template.html';
 import styles from './styles.sass';
 
 
@@ -8,6 +8,6 @@ import styles from './styles.sass';
   template: template,
   styles: [styles]
 })
-export class AppComponent {
+export class PageComponent {
   name = 'Try angular';
 }

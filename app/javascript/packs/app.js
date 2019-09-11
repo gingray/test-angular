@@ -4,4 +4,6 @@
 //
 // <%= javascript_pack_tag 'hello_angular' %>
 
-require('../hello_angular')
+// require('../app/components/mainPage')
+
+import '../app/index'
